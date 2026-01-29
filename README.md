@@ -6,7 +6,7 @@ A fast, beautiful terminal UI for managing Homebrew packages and casks.
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey)
 
-<!-- ![brew-tui screenshot](assets/screenshot.png) -->
+![brew-tui screenshot](assets/screenshot.png)
 
 ## Why?
 
@@ -203,18 +203,6 @@ brew-tui/
 - **Testing**: Unit tests, manual testing protocol
 
 See [IMPROVEMENTS.md](IMPROVEMENTS.md) for the full optimization history.
-
-## Roadmap
-
-Potential future enhancements:
-
-- [ ] Tap management (add/remove custom taps)
-- [ ] Search Homebrew formulae (install new packages)
-- [ ] Export/import package lists
-- [ ] Custom themes and color schemes
-- [ ] Service management (`brew services`)
-- [ ] Cask version history
-- [ ] Integration with `brew bundle` (Brewfile support)
 
 ## Contributing
 
